@@ -1,0 +1,5 @@
+NAME=python3
+VERSION=3.6.2
+REVISION=1
+SRC=https://www.python.org/ftp/python/3.6.2/Python-3.6.2.tar.xz
+SRCMD5=2c68846471994897278364fc18730dd9
