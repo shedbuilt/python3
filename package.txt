@@ -1,5 +1,5 @@
 NAME=python3
 VERSION=3.6.4
-REVISION=3
+REVISION=1
 SRC=https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tar.xz
 SRCMD5=1325134dd525b4a2c3272a1a0214dd54
