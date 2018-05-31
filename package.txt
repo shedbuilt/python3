@@ -1,5 +1,7 @@
 NAME=python3
-VERSION=3.6.4
+VERSION=3.6.5
 REVISION=1
-SRC=https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tar.xz
-SRCMD5=1325134dd525b4a2c3272a1a0214dd54
+SRC=https://www.python.org/ftp/python/3.6.5/Python-3.6.5.tar.xz
+SRCMD5=9f49654a4d6f733ff3284ab9d227e9fd
+OPTIONS=bootstrap|release (docs)
+DEFAULTS=release docs
