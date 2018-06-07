@@ -3,5 +3,7 @@ VERSION=3.6.5
 REVISION=1
 SRC=https://www.python.org/ftp/python/3.6.5/Python-3.6.5.tar.xz
 SRCMD5=9f49654a4d6f733ff3284ab9d227e9fd
+BUILDDEPS=openssl
+INSTALLDEPS=openssl
 OPTIONS=bootstrap|release (docs)
 DEFAULTS=release docs
