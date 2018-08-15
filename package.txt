@@ -1,6 +1,6 @@
 NAME=python3
 VERSION=3.7.0
-REVISION=2
+REVISION=3
 SRC=https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tar.xz
 SRCMD5=eb8c2a6b1447d50813c02714af4681f3
 BUILDDEPS=openssl docs:wget
